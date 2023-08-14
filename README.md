@@ -7,10 +7,9 @@
 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 
 <h1 align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matorolll&show_icons=true&theme=dark&locale=en&layout=compact" alt="matorolll" /></h1>
@@ -94,10 +93,10 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
+        src="https://download.blender.org/branding/community/blender_community_badge_white.svg" 
         width="48"
         height="48"
-        alt="Material UI"
+        alt="Blender"
       />
       <br /><strong>Blender</strong>
     </td>
@@ -105,21 +104,12 @@
   <tr>
     <td align="center" height="108" width="108">
       <img
-        src="https://download.blender.org/branding/community/blender_community_badge_white.svg" 
-        width="48"
-        height="48"
-        alt="Blender"
-      />
-      <br /><strong>Dotnet</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"  
         width="48"
         height="48"
         alt="Dotnet"
       />
-      <br /><strong>Javascript</strong>
+      <br /><strong>Dotnet</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -128,11 +118,20 @@
         height="48"
         alt="Javascript"
       />
-      <br /><strong>C#</strong>
+      <br /><strong>Javascript</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+        width="48"
+        height="48"
+        alt="C#"
+      />
+      <br /><strong>C#</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"     
         width="48"
         height="48"
         alt="C#"
@@ -150,12 +149,12 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
         width="48"
         height="48"
-        alt="Python"
+        alt="MySQL"
       />
-      <br /><strong>Python</strong>
+      <br /><strong>MySQL</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
