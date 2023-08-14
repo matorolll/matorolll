@@ -158,8 +158,7 @@
 
 # 📈 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=matorolll&show_icons=true&theme=react&&hide_border=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=matorolll&&theme=react&&hide_border=true"/>
+<h1 align="center"><img src="https://github-readme-stats.vercel.app/api?username=matorolll&show_icons=true&theme=react&&hide_border=true"/></h1>
+<h1 align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=matorolll&&theme=react&&hide_border=true"/></h1>
 <h1 align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matorolll&show_icons=true&theme=react&locale=en&layout=compact" alt="matorolll" /></h1>
 <h1 align="center"><img src="https://komarev.com/ghpvc/?username=matorolll&label=Lurking%20here&color=b40e0e&style=flat" alt="matorolll" /></h1>
-<br/>
