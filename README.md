@@ -1,4 +1,3 @@
-      <h1 align="center">Hello there, I'm Mateusz Gajos</h1>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
@@ -28,7 +27,7 @@
 
 
 # 👋 Hello there ...
-
+#  I'M Mateusz Gajos 
 <div align="justify">
    Something
 </div>
@@ -189,9 +188,9 @@
 # 📈 Stats
 
 <img
-  src=""
+  src="https://github-readme-stats.vercel.app/api?username=matorolll&show_icons=true&theme=react&&hide_border=true"
 />
 <img
-  src=""
+  src="https://github-readme-streak-stats.herokuapp.com/?user=matorolll&&theme=react&&hide_border=true"
 />
 <br/>
