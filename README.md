@@ -1,29 +1,8 @@
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-
-<h1 align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matorolll&show_icons=true&theme=dark&locale=en&layout=compact" alt="matorolll" /></h1>
-
-<h1 align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matorolll&theme=dark" alt="matorolll" /></h1>
-<h1 align="center"><img src="https://komarev.com/ghpvc/?username=matorolll&label=Lurking%20here&color=b40e0e&style=flat" alt="matorolll" /></h1>
-
-
 # 👋 Hello there ...
 #  I'M Mateusz Gajos 
 <div align="justify">
    Something
 </div>
-
 
 # 🔧 Technologies & Tools
 <table>
@@ -181,5 +160,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=matorolll&show_icons=true&theme=react&&hide_border=true"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=matorolll&&theme=react&&hide_border=true"/>
+<h1 align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matorolll&show_icons=true&theme=react&locale=en&layout=compact" alt="matorolll" /></h1>
+<h1 align="center"><img src="https://komarev.com/ghpvc/?username=matorolll&label=Lurking%20here&color=b40e0e&style=flat" alt="matorolll" /></h1>
 <br/>
-![]
