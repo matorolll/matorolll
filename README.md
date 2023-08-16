@@ -1,5 +1,5 @@
 # 👋 Hello there ...
-#  I'M Mateusz Gajos 
+#  I'm Mateusz Gajos 
 <div align="justify">
   I am a student of information and communication technology in the 4th year at Kielce university of technology. I am very passionate about computer science and mechanics. I love front 
   end, however fullstack applications don't give me much trouble. I am interested in technological innovations and the current revolution of artificial intelligence and in particular GAN. 
