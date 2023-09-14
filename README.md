@@ -1,9 +1,12 @@
 # 👋 Hello there ...
 #  I'm Mateusz Gajos 
 <div align="justify">
-  I am a student of information and communication technology in the 4th year at Kielce university of technology. I am very passionate about computer science and mechanics. I love front 
-  end, however fullstack applications don't give me much trouble. I am interested in technological innovations and the current revolution of artificial intelligence and in particular GAN. 
-  I use it to support the process of creating both 2D and 3D graphics that I use in my projects. I develop myself both in the subject of microcontrollers which improve my daily life.
+  I am a fourth-year student majoring in Information and Communication Technology at Kielce University of Technology.
+  My academic journey has allowed me to cultivate a deep passion for the fields of computer science and mechanics.
+  While I particularly enjoy working on the front end, I am also proficient in developing full-stack applications.
+  My fascination extends to technological innovations, with a keen interest in the ongoing artificial intelligence revolution, particularly in Generative Adversarial Networks (GANs).
+  I utilize GANs to enhance my creative process, generating both 2D and 3D graphics that find applications in my various projects.
+  Furthermore, I am also dedicated to honing my skills in microcontrollers, as they play a pivotal role in improving daily life.
 </div>
 
 # 🔧 Technologies & Tools
